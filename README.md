@@ -1,3 +1,26 @@
+This is my fork of ManyAnims that has many code changes and added feeatures to accomodate for my uses.
+
+You need to use this with my fork of CODMayaTools for it to work properly.
+
+This is BO3 & Maya 2023 only, check out the original project for IW/SH and Maya 2022 support.
+
+## Features
+  ### - Cast Support (Removed seanim support)
+  
+  ### - Automatic Selection of joints
+  instead of manually selecting joints, the script does it for you, choosing the correct joints for the animation
+
+  ### - Support for Dual Wield LH and RH specific animations
+  
+  ### - XANIM_EXPORT support
+  You can only export in XANIM_EXPORT on this fork as XANIM_BIN export is broken on CODMayaTools 2023
+#
+All code related to COD4[MW] has been removed as I don't use them.
+
+Also, did some changes to the Menu to accomodate for this, and made the Export Button and actual button.
+
+#
+# Original readme.md
 [![ManyAsset](https://img.shields.io/discord/585171589750849538?color=%23FF8711&label=ManyAsset&logo=discord&logoColor=%23FFFFFF)](https://discord.gg/v2TWkeR)
 [![ManyAsset](https://img.shields.io/youtube/channel/subscribers/UCQLUoUspSxbTKnhfc6ox03w?style=flat&logo=youtube&label=ManyAsset&color=fb0335
 )](https://www.youtube.com/@ManyAsset)
